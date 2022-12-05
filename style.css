@@ -1,0 +1,31 @@
+.note {
+    font-size: 27px;
+    color: black;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    text-align-last: center;
+}
+.heaading {
+    color: black;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    text-align-last: center;
+}
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: #000000;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
+
+.okjh{
+    width: fit-content;
+    height: fit-content;
+}
